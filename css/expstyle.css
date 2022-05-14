@@ -1,0 +1,46 @@
+.list {
+    text-align: center;
+    font-family: PTH;
+    padding: 10px;
+    color: #00ff44;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+@font-face {
+    font-family: PTH;
+    src: url(/PTH.ttf);
+}
+
+.title {
+    text-align: center;
+    font-family: PTH;
+    padding: 15px;
+    font-size: 35px;
+}
+
+body {
+    background-color: black;
+    color: #00ff44;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+a {
+    color: #00ff44;
+    text-decoration: none;
+}
+
+.goback {
+    text-align: center;
+    font-family: PTH;
+    padding: 10;
+    font-size: 27px;
+}
+
+.construction {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}

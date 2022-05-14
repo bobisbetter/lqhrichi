@@ -1,0 +1,65 @@
+.tilda {
+  padding: 0px;
+  padding-top: 2px;
+  width: 40px;
+  margin-bottom: 0px;
+  margin-top: 3px;
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+.choice {
+
+    text-align: center;
+    font-size: 55px;
+    color: #32fa67;
+   
+   
+  }
+
+
+  body {
+ 
+    background-color:#141414;
+    font-family: PF;
+    color:white;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+  }
+
+
+  img {
+      width: 130px;
+      background: white;
+      border: 5px solid #d4d4d4; padding:1em; 
+      padding: 5px;
+  }
+
+
+a {
+ margin-right: auto;
+ margin-left: auto;
+ text-align: center;
+ width: 50%;
+ 
+
+}
+
+.dm-toggle {
+  text-align: center;
+  font-size: 20px;
+}
+
+@font-face {
+  font-family: PF;
+  src: url('/PAC-FONT.otf');
+  }
+
+  .protip {
+    size: 100%;
+    background-color: #F2F2F2;
+    outline-style: solid;
+    outline-color: #8D8C8C;
+    color:black;
+    text-align: center;
+  }

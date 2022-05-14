@@ -1,0 +1,104 @@
+
+ 
+
+.title {
+  font-size: 75px;
+    color: #32fa67;
+    font-family: FatFrank;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    letter-spacing: 3px;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: FatFrank;
+    src: url('/ff.woff');
+}
+
+body {
+background-color: #141414;
+font-family: FatFrank;
+color:#32fa67;
+}
+
+a {
+    color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size: 28px;
+    text-decoration: none;
+    
+
+    
+}
+
+a:hover {
+    color: grey;
+}
+
+img {
+    width: 150px;
+    border-radius: 15px;
+    padding: 6px;    
+    float: none;
+
+    
+    
+}
+
+.menubar {
+    text-align: center;
+    
+  
+}
+
+menubar:hover {
+    color:grey;
+}
+.button {
+    font-family: FatFrank;
+}
+
+.dark-mode {
+    background-color: #262626;
+    color: white;
+
+  }
+
+  .version {
+      text-align: center;
+      font-weight: lighter;
+      font-size: 47px;
+
+  }
+
+
+
+
+
+
+  .counter {
+      size: 10px;
+  }
+
+  .bottom {
+      size: 15px;
+  }
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
